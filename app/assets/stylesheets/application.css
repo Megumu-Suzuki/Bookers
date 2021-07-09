@@ -57,3 +57,7 @@ div.field, div.actions {
 label {
   display: block;
 }
+
+#notice{
+  color: green;
+}
